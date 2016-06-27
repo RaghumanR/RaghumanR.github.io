@@ -1,0 +1,147 @@
+<html>
+<head>
+<style>
+
+*{
+margin:20px 20px 0px 20px;
+padding:
+}
+#wname{
+height:60px;
+width:280px;
+padding:;
+margin:40px;
+color:white;
+}
+.h1{
+margin-left:10px;
+margin-top:-5px;
+font-size:2.5em;
+}
+p{
+margin-left:10px;
+margin-top:-12px;
+}
+
+#list{
+float:right;
+margin-top:-93px;
+
+width:460px;
+color:white;
+
+
+}
+li
+{
+float:left;
+list-style-type:none;
+cursor:pointer;
+}
+
+
+
+#mainimg{
+margin-top:-35px;
+height:200px;
+width:1225px;
+}
+img{
+
+height:200px;
+width:1215px;
+margin-left:6px;
+margin-top:1px;
+}
+#head2{
+height:500px;
+width:700px;
+color:white;
+font-size:2em;
+}
+.p1{
+color:orange;
+font-size:22px;
+text-align:justify;
+}
+
+#side{
+height:500px;
+width:500px;
+float:right;
+margin-top:-485px;
+color:white;
+font-size:2em;
+}
+
+.p2{
+background-color:grey;
+}
+
+
+</style>
+<script>
+</script>
+</head>
+<body bgcolor="purple">
+<div id="wname">
+<p class="h1">NOKIA</p>
+<font color="orange">
+<p align="center">Connecting People</p></font>
+</div>
+
+
+<div id="list">
+<p class="bullet">
+<ul>
+<li>Home</li>
+<li>About us</li>
+<li>Services</li>
+<li>Contact us</li>
+</ul></p>
+</div>
+
+<div id="mainimg">
+<img src="images/new_nokia_lumia_logo_hq_by_vinceranda-d4omjut.png">
+</div>
+
+<div id="head2">
+ <p>About Lumia</p><br>
+ <p class="p1">Microsoft Lumia (previously the Nokia Lumia Series) is a range of mobile devices designed and marketed by Microsoft
+ Mobile and previously by Nokia. Introduced in November 2011, the line was the result of a long-term partnership between 
+ Nokia and Microsoft as such, all Lumia smartphones run the Windows Phone operating system. The Lumia name is derived from 
+ the partitive plural form of the Finnish word lumi, meaning "snow".
+ <br><br>
+ On 3 September 2013, Microsoft announced its purchase
+ of Nokia's mobile device business, with the deal closing on 25 April 2014. As a result, the Lumia line is now maintained 
+ by Microsoft Mobile. As part of the transition, Microsoft continued to use the Nokia brand on Lumia devices until October
+ 2014, when it began to officially phase out the Nokia name in its promotion and production of smartphones in favor of 
+ Microsoft branding.[3] In November 2014, Microsoft announced the first Microsoft (non-Nokia) branded Lumia device, the 
+ Lumia 535.[4] In October 2015, Microsoft announced the first Lumia devices running on Windows 10 Mobile, the Lumia 950, 
+ Lumia 950 XL and Lumia 550.
+ 
+ </p>
+ </div>
+ 
+ 
+<div id="side">
+<p class="p2">Services</p><br>
+<p class="p1">
+Nokia and Microsoft Mobile have released several updates unique to Lumia devices, the releases contain a combination 
+of firmware and software updates which include imaging improvements, new technology support, as well as feature updates
+ and bug fixes. Because Lumia devices exclusively use Windows Phone, major operating system updates are often bundled 
+ with the firmware updates upon release.<br><br>
+
+
+</p>
+<p class="p2">Contact us </p><br>
+<p class="p1"><a>Nokia Lumia Help Line</a><br>
+               <u>Toll Free No:</u>1800-1234-1234 
+ </p>
+
+</div>
+<footer align="center"><font color="" size="5"> Copyrights @Nokia Lumia 2016</font></footer>
+
+
+</body>
+</html>
